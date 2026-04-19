@@ -7,11 +7,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "dora-ai-cd26a.firebaseapp.com",
-  projectId: "dora-ai-cd26a",
-  storageBucket: "dora-ai-cd26a.firebasestorage.app",
-  messagingSenderId: "774438834279",
-  appId: "1:774438834279:web:f2b85ea5cdc71dc4b284c2"
+  authDomain: "aadi-ai-yt.firebaseapp.com",
+  projectId: "aadi-ai-yt",
+  storageBucket: "aadi-ai-yt.firebasestorage.app",
+  messagingSenderId: "855383900164",
+  appId: "1:855383900164:web:b377ad818b267f61217551"
+
 };
 
 // Initialize Firebase
